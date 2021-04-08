@@ -1,0 +1,1240 @@
+district_number,county,state,fips_code
+43,Anderson,Kentucky,21005
+43,Bath,Kentucky,21011
+43,Bell,Kentucky,21013
+43,Boone,Kentucky,21015
+43,Bourbon,Kentucky,21017
+43,Boyd,Kentucky,21019
+43,Boyle,Kentucky,21021
+43,Bracken,Kentucky,21023
+43,Breathitt,Kentucky,21025
+43,Campbell,Kentucky,21037
+43,Carroll,Kentucky,21041
+43,Carter,Kentucky,21043
+43,Clark,Kentucky,21049
+43,Clay,Kentucky,21051
+43,Elliott,Kentucky,21063
+43,Estill,Kentucky,21065
+43,Fayette,Kentucky,21067
+43,Fleming,Kentucky,21069
+43,Floyd,Kentucky,21071
+43,Franklin,Kentucky,21073
+43,Gallatin,Kentucky,21077
+43,Garrard,Kentucky,21079
+43,Grant,Kentucky,21081
+43,Greenup,Kentucky,21089
+43,Harlan,Kentucky,21095
+43,Harrison,Kentucky,21097
+43,Henry,Kentucky,21103
+43,Jackson,Kentucky,21109
+43,Jessamine,Kentucky,21113
+43,Johnson,Kentucky,21115
+43,Kenton,Kentucky,21117
+43,Knott,Kentucky,21119
+43,Knox,Kentucky,21121
+43,Laurel,Kentucky,21125
+43,Lawrence,Kentucky,21127
+43,Lee,Kentucky,21129
+43,Leslie,Kentucky,21131
+43,Letcher,Kentucky,21133
+43,Lewis,Kentucky,21135
+43,Lincoln,Kentucky,21137
+43,Madison,Kentucky,21151
+43,Magoffin,Kentucky,21153
+43,Martin,Kentucky,21159
+43,Mason,Kentucky,21161
+43,McCreary,Kentucky,21147
+43,Menifee,Kentucky,21165
+43,Mercer,Kentucky,21167
+43,Montgomery,Kentucky,21173
+43,Morgan,Kentucky,21175
+43,Nicholas,Kentucky,21181
+43,Owen,Kentucky,21187
+43,Owsley,Kentucky,21189
+43,Pendleton,Kentucky,21191
+43,Perry,Kentucky,21193
+43,Pike,Kentucky,21195
+43,Powell,Kentucky,21197
+43,Pulaski,Kentucky,21199
+43,Robertson,Kentucky,21201
+43,Rockcastle,Kentucky,21203
+43,Rowan,Kentucky,21205
+43,Scott,Kentucky,21209
+43,Shelby,Kentucky,21211
+43,Trimble,Kentucky,21223
+43,Wayne,Kentucky,21231
+43,Whitley,Kentucky,21235
+43,Wolfe,Kentucky,21237
+43,Woodford,Kentucky,21239
+44,Adair,Kentucky,21001
+44,Allen,Kentucky,21003
+44,Ballard,Kentucky,21007
+44,Barren,Kentucky,21009
+44,Breckinridge,Kentucky,21027
+44,Bullitt,Kentucky,21029
+44,Butler,Kentucky,21031
+44,Caldwell,Kentucky,21033
+44,Calloway,Kentucky,21035
+44,Carlisle,Kentucky,21039
+44,Casey,Kentucky,21045
+44,Christian,Kentucky,21047
+44,Clinton,Kentucky,21053
+44,Crittenden,Kentucky,21055
+44,Cumberland,Kentucky,21057
+44,Daviess,Kentucky,21059
+44,Edmonson,Kentucky,21061
+44,Fulton,Kentucky,21075
+44,Graves,Kentucky,21083
+44,Grayson,Kentucky,21085
+44,Green,Kentucky,21087
+44,Hancock,Kentucky,21091
+44,Hardin,Kentucky,21093
+44,Hart,Kentucky,21099
+44,Henderson,Kentucky,21101
+44,Hickman,Kentucky,21105
+44,Hopkins,Kentucky,21107
+44,Jefferson,Kentucky,21111
+44,Larue,Kentucky,21123
+44,Livingston,Kentucky,21139
+44,Logan,Kentucky,21141
+44,Lyon,Kentucky,21143
+44,Marion,Kentucky,21155
+44,Marshall,Kentucky,21157
+44,McCracken,Kentucky,21145
+44,McLean,Kentucky,21149
+44,Meade,Kentucky,21163
+44,Metcalfe,Kentucky,21169
+44,Monroe,Kentucky,21171
+44,Muhlenberg,Kentucky,21177
+44,Nelson,Kentucky,21179
+44,Ohio,Kentucky,21183
+44,Oldham,Kentucky,21185
+44,Russell,Kentucky,21207
+44,Simpson,Kentucky,21213
+44,Spencer,Kentucky,21215
+44,Taylor,Kentucky,21217
+44,Todd,Kentucky,21219
+44,Trigg,Kentucky,21221
+44,Union,Kentucky,21225
+44,Warren,Kentucky,21227
+44,Washington,Kentucky,21229
+44,Webster,Kentucky,21233
+45,Alcona,Michigan,26001
+45,Alpena,Michigan,26007
+45,Arenac,Michigan,26011
+45,Bay,Michigan,26017
+45,Cheboygan,Michigan,26031
+45,Clare,Michigan,26035
+45,Crawford,Michigan,26039
+45,Genesee,Michigan,26049
+45,Gladwin,Michigan,26051
+45,Gratiot,Michigan,26057
+45,Huron,Michigan,26063
+45,Iosco,Michigan,26069
+45,Isabella,Michigan,26073
+45,Jackson,Michigan,26075
+45,Lapeer,Michigan,26087
+45,Lenawee,Michigan,26091
+45,Livingston,Michigan,26093
+45,Macomb,Michigan,26099
+45,Midland,Michigan,26111
+45,Monroe,Michigan,26115
+45,Montmorency,Michigan,26119
+45,Oakland,Michigan,26125
+45,Ogemaw,Michigan,26129
+45,Oscoda,Michigan,26135
+45,Otsego,Michigan,26137
+45,Presque Isle,Michigan,26141
+45,Roscommon,Michigan,26143
+45,Saginaw,Michigan,26145
+45,Sanilac,Michigan,26151
+45,Shiawassee,Michigan,26155
+45,St. Clair,Michigan,26147
+45,Tuscola,Michigan,26157
+45,Washtenaw,Michigan,26161
+45,Wayne,Michigan,26163
+46,Alger,Michigan,26003
+46,Allegan,Michigan,26005
+46,Antrim,Michigan,26009
+46,Baraga,Michigan,26013
+46,Barry,Michigan,26015
+46,Benzie,Michigan,26019
+46,Berrien,Michigan,26021
+46,Branch,Michigan,26023
+46,Calhoun,Michigan,26025
+46,Cass,Michigan,26027
+46,Charlevoix,Michigan,26029
+46,Chippewa,Michigan,26033
+46,Clinton,Michigan,26037
+46,Delta,Michigan,26041
+46,Dickinson,Michigan,26043
+46,Eaton,Michigan,26045
+46,Emmet,Michigan,26047
+46,Gogebic,Michigan,26053
+46,Grand Traverse,Michigan,26055
+46,Hillsdale,Michigan,26059
+46,Houghton,Michigan,26061
+46,Ingham,Michigan,26065
+46,Ionia,Michigan,26067
+46,Iron,Michigan,26071
+46,Kalamazoo,Michigan,26077
+46,Kalkaska,Michigan,26079
+46,Kent,Michigan,26081
+46,Keweenaw,Michigan,26083
+46,Lake,Michigan,26085
+46,Leelanau,Michigan,26089
+46,Luce,Michigan,26095
+46,Mackinac,Michigan,26097
+46,Manistee,Michigan,26101
+46,Marquette,Michigan,26103
+46,Mason,Michigan,26105
+46,Mecosta,Michigan,26107
+46,Menominee,Michigan,26109
+46,Missaukee,Michigan,26113
+46,Montcalm,Michigan,26117
+46,Muskegon,Michigan,26121
+46,Newaygo,Michigan,26123
+46,Oceana,Michigan,26127
+46,Ontonagon,Michigan,26131
+46,Osceola,Michigan,26133
+46,Ottawa,Michigan,26139
+46,Schoolcraft,Michigan,26153
+46,St. Joseph,Michigan,26149
+46,Van Buren,Michigan,26159
+46,Wexford,Michigan,26165
+47,Allen,Ohio,39003
+47,Ashland,Ohio,39005
+47,Ashtabula,Ohio,39007
+47,Auglaize,Ohio,39011
+47,Carroll,Ohio,39019
+47,Columbiana,Ohio,39029
+47,Crawford,Ohio,39033
+47,Cuyahoga,Ohio,39035
+47,Defiance,Ohio,39039
+47,Erie,Ohio,39043
+47,Fulton,Ohio,39051
+47,Geauga,Ohio,39055
+47,Hancock,Ohio,39063
+47,Hardin,Ohio,39065
+47,Henry,Ohio,39069
+47,Holmes,Ohio,39075
+47,Huron,Ohio,39077
+47,Lake,Ohio,39085
+47,Lorain,Ohio,39093
+47,Lucas,Ohio,39095
+47,Mahoning,Ohio,39099
+47,Marion,Ohio,39101
+47,Medina,Ohio,39103
+47,Mercer,Ohio,39107
+47,Ottawa,Ohio,39123
+47,Paulding,Ohio,39125
+47,Portage,Ohio,39133
+47,Putnam,Ohio,39137
+47,Richland,Ohio,39139
+47,Sandusky,Ohio,39143
+47,Seneca,Ohio,39147
+47,Stark,Ohio,39151
+47,Summit,Ohio,39153
+47,Trumbull,Ohio,39155
+47,Tuscarawas,Ohio,39157
+47,Van Wert,Ohio,39161
+47,Wayne,Ohio,39169
+47,Williams,Ohio,39171
+47,Wood,Ohio,39173
+47,Wyandot,Ohio,39175
+48,Adams,Ohio,39001
+48,Athens,Ohio,39009
+48,Belmont,Ohio,39013
+48,Brown,Ohio,39015
+48,Butler,Ohio,39017
+48,Champaign,Ohio,39021
+48,Clark,Ohio,39023
+48,Clermont,Ohio,39025
+48,Clinton,Ohio,39027
+48,Coshocton,Ohio,39031
+48,Darke,Ohio,39037
+48,Delaware,Ohio,39041
+48,Fairfield,Ohio,39045
+48,Fayette,Ohio,39047
+48,Franklin,Ohio,39049
+48,Gallia,Ohio,39053
+48,Greene,Ohio,39057
+48,Guernsey,Ohio,39059
+48,Hamilton,Ohio,39061
+48,Harrison,Ohio,39067
+48,Highland,Ohio,39071
+48,Hocking,Ohio,39073
+48,Jackson,Ohio,39079
+48,Jefferson,Ohio,39081
+48,Knox,Ohio,39083
+48,Lawrence,Ohio,39087
+48,Licking,Ohio,39089
+48,Logan,Ohio,39091
+48,Madison,Ohio,39097
+48,Meigs,Ohio,39105
+48,Miami,Ohio,39109
+48,Monroe,Ohio,39111
+48,Montgomery,Ohio,39113
+48,Morgan,Ohio,39115
+48,Morrow,Ohio,39117
+48,Muskingum,Ohio,39119
+48,Noble,Ohio,39121
+48,Perry,Ohio,39127
+48,Pickaway,Ohio,39129
+48,Pike,Ohio,39131
+48,Preble,Ohio,39135
+48,Ross,Ohio,39141
+48,Scioto,Ohio,39145
+48,Shelby,Ohio,39149
+48,Union,Ohio,39159
+48,Vinton,Ohio,39163
+48,Warren,Ohio,39165
+48,Washington,Ohio,39167
+49,Anderson,Tennessee,47001
+49,Bedford,Tennessee,47003
+49,Bledsoe,Tennessee,47007
+49,Blount,Tennessee,47009
+49,Bradley,Tennessee,47011
+49,Campbell,Tennessee,47013
+49,Carter,Tennessee,47019
+49,Claiborne,Tennessee,47025
+49,Cocke,Tennessee,47029
+49,Coffee,Tennessee,47031
+49,Franklin,Tennessee,47051
+49,Grainger,Tennessee,47057
+49,Greene,Tennessee,47059
+49,Grundy,Tennessee,47061
+49,Hamblen,Tennessee,47063
+49,Hamilton,Tennessee,47065
+49,Hancock,Tennessee,47067
+49,Hawkins,Tennessee,47073
+49,Jefferson,Tennessee,47089
+49,Johnson,Tennessee,47091
+49,Knox,Tennessee,47093
+49,Lincoln,Tennessee,47103
+49,Loudon,Tennessee,47105
+49,Marion,Tennessee,47115
+49,McMinn,Tennessee,47107
+49,Meigs,Tennessee,47121
+49,Monroe,Tennessee,47123
+49,Moore,Tennessee,47127
+49,Morgan,Tennessee,47129
+49,Polk,Tennessee,47139
+49,Rhea,Tennessee,47143
+49,Roane,Tennessee,47145
+49,Scott,Tennessee,47151
+49,Sequatchie,Tennessee,47153
+49,Sevier,Tennessee,47155
+49,Sullivan,Tennessee,47163
+49,Unicoi,Tennessee,47171
+49,Union,Tennessee,47173
+49,Van Buren,Tennessee,47175
+49,Warren,Tennessee,47177
+49,Washington,Tennessee,47179
+50,Cannon,Tennessee,47015
+50,Cheatham,Tennessee,47021
+50,Clay,Tennessee,47027
+50,Cumberland,Tennessee,47035
+50,Davidson,Tennessee,47037
+50,DeKalb,Tennessee,47041
+50,Dickson,Tennessee,47043
+50,Fentress,Tennessee,47049
+50,Giles,Tennessee,47055
+50,Hickman,Tennessee,47081
+50,Houston,Tennessee,47083
+50,Humphreys,Tennessee,47085
+50,Jackson,Tennessee,47087
+50,Lawrence,Tennessee,47099
+50,Lewis,Tennessee,47101
+50,Macon,Tennessee,47111
+50,Marshall,Tennessee,47117
+50,Maury,Tennessee,47119
+50,Montgomery,Tennessee,47125
+50,Overton,Tennessee,47133
+50,Pickett,Tennessee,47137
+50,Putnam,Tennessee,47141
+50,Robertson,Tennessee,47147
+50,Rutherford,Tennessee,47149
+50,Smith,Tennessee,47159
+50,Stewart,Tennessee,47161
+50,Sumner,Tennessee,47165
+50,Trousdale,Tennessee,47169
+50,Wayne,Tennessee,47181
+50,White,Tennessee,47185
+50,Williamson,Tennessee,47187
+50,Wilson,Tennessee,47189
+51,Benton,Tennessee,47005
+51,Carroll,Tennessee,47017
+51,Chester,Tennessee,47023
+51,Crockett,Tennessee,47033
+51,Decatur,Tennessee,47039
+51,Dyer,Tennessee,47045
+51,Fayette,Tennessee,47047
+51,Gibson,Tennessee,47053
+51,Hardeman,Tennessee,47069
+51,Hardin,Tennessee,47071
+51,Haywood,Tennessee,47075
+51,Henderson,Tennessee,47077
+51,Henry,Tennessee,47079
+51,Lake,Tennessee,47095
+51,Lauderdale,Tennessee,47097
+51,Madison,Tennessee,47113
+51,McNairy,Tennessee,47109
+51,Obion,Tennessee,47131
+51,Perry,Tennessee,47135
+51,Shelby,Tennessee,47157
+51,Tipton,Tennessee,47167
+51,Weakley,Tennessee,47183
+52,Boone,Illinois,17007
+52,Carroll,Illinois,17015
+52,Cook,Illinois,17031
+52,DeKalb,Illinois,17037
+52,DuPage,Illinois,17043
+52,Grundy,Illinois,17063
+52,Jo Daviess,Illinois,17085
+52,Kane,Illinois,17089
+52,Kendall,Illinois,17093
+52,LaSalle,Illinois,17099
+52,Lake,Illinois,17097
+52,Lee,Illinois,17103
+52,McHenry,Illinois,17111
+52,Ogle,Illinois,17141
+52,Stephenson,Illinois,17177
+52,Whiteside,Illinois,17195
+52,Will,Illinois,17197
+52,Winnebago,Illinois,17201
+53,Adams,Illinois,17001
+53,Brown,Illinois,17009
+53,Bureau,Illinois,17011
+53,Cass,Illinois,17017
+53,Champaign,Illinois,17019
+53,Christian,Illinois,17021
+53,Coles,Illinois,17029
+53,De Witt,Illinois,17039
+53,Douglas,Illinois,17041
+53,Edgar,Illinois,17045
+53,Ford,Illinois,17053
+53,Fulton,Illinois,17057
+53,Greene,Illinois,17061
+53,Hancock,Illinois,17067
+53,Henderson,Illinois,17071
+53,Henry,Illinois,17073
+53,Iroquois,Illinois,17075
+53,Kankakee,Illinois,17091
+53,Knox,Illinois,17095
+53,Livingston,Illinois,17105
+53,Logan,Illinois,17107
+53,Macon,Illinois,17115
+53,Macoupin,Illinois,17117
+53,Marshall,Illinois,17123
+53,Mason,Illinois,17125
+53,McDonough,Illinois,17109
+53,McLean,Illinois,17113
+53,Menard,Illinois,17129
+53,Mercer,Illinois,17131
+53,Montgomery,Illinois,17135
+53,Morgan,Illinois,17137
+53,Moultrie,Illinois,17139
+53,Peoria,Illinois,17143
+53,Piatt,Illinois,17147
+53,Pike,Illinois,17149
+53,Putnam,Illinois,17155
+53,Rock Island,Illinois,17161
+53,Sangamon,Illinois,17167
+53,Schuyler,Illinois,17169
+53,Scott,Illinois,17171
+53,Shelby,Illinois,17173
+53,Stark,Illinois,17175
+53,Tazewell,Illinois,17179
+53,Vermilion,Illinois,17183
+53,Warren,Illinois,17187
+53,Woodford,Illinois,17203
+54,Alexander,Illinois,17003
+54,Bond,Illinois,17005
+54,Calhoun,Illinois,17013
+54,Clark,Illinois,17023
+54,Clay,Illinois,17025
+54,Clinton,Illinois,17027
+54,Crawford,Illinois,17033
+54,Cumberland,Illinois,17035
+54,Edwards,Illinois,17047
+54,Effingham,Illinois,17049
+54,Fayette,Illinois,17051
+54,Franklin,Illinois,17055
+54,Gallatin,Illinois,17059
+54,Hamilton,Illinois,17065
+54,Hardin,Illinois,17069
+54,Jackson,Illinois,17077
+54,Jasper,Illinois,17079
+54,Jefferson,Illinois,17081
+54,Jersey,Illinois,17083
+54,Johnson,Illinois,17087
+54,Lawrence,Illinois,17101
+54,Madison,Illinois,17119
+54,Marion,Illinois,17121
+54,Massac,Illinois,17127
+54,Monroe,Illinois,17133
+54,Perry,Illinois,17145
+54,Pope,Illinois,17151
+54,Pulaski,Illinois,17153
+54,Randolph,Illinois,17157
+54,Richland,Illinois,17159
+54,Saline,Illinois,17165
+54,St. Clair,Illinois,17163
+54,Union,Illinois,17181
+54,Wabash,Illinois,17185
+54,Washington,Illinois,17189
+54,Wayne,Illinois,17191
+54,White,Illinois,17193
+54,Williamson,Illinois,17199
+55,Adams,Indiana,18001
+55,Allen,Indiana,18003
+55,Benton,Indiana,18007
+55,Blackford,Indiana,18009
+55,Carroll,Indiana,18015
+55,Cass,Indiana,18017
+55,DeKalb,Indiana,18033
+55,Elkhart,Indiana,18039
+55,Fulton,Indiana,18049
+55,Grant,Indiana,18053
+55,Huntington,Indiana,18069
+55,Jasper,Indiana,18073
+55,Jay,Indiana,18075
+55,Kosciusko,Indiana,18085
+55,LaGrange,Indiana,18087
+55,LaPorte,Indiana,18091
+55,Lake,Indiana,18089
+55,Marshall,Indiana,18099
+55,Miami,Indiana,18103
+55,Newton,Indiana,18111
+55,Noble,Indiana,18113
+55,Porter,Indiana,18127
+55,Pulaski,Indiana,18131
+55,St. Joseph,Indiana,18141
+55,Starke,Indiana,18149
+55,Steuben,Indiana,18151
+55,Tippecanoe,Indiana,18157
+55,Wabash,Indiana,18169
+55,Warren,Indiana,18171
+55,Wells,Indiana,18179
+55,White,Indiana,18181
+55,Whitley,Indiana,18183
+56,Bartholomew,Indiana,18005
+56,Boone,Indiana,18011
+56,Brown,Indiana,18013
+56,Clark,Indiana,18019
+56,Clay,Indiana,18021
+56,Clinton,Indiana,18023
+56,Crawford,Indiana,18025
+56,Daviess,Indiana,18027
+56,Dearborn,Indiana,18029
+56,Decatur,Indiana,18031
+56,Delaware,Indiana,18035
+56,Dubois,Indiana,18037
+56,Fayette,Indiana,18041
+56,Floyd,Indiana,18043
+56,Fountain,Indiana,18045
+56,Franklin,Indiana,18047
+56,Gibson,Indiana,18051
+56,Greene,Indiana,18055
+56,Hamilton,Indiana,18057
+56,Hancock,Indiana,18059
+56,Harrison,Indiana,18061
+56,Hendricks,Indiana,18063
+56,Henry,Indiana,18065
+56,Howard,Indiana,18067
+56,Jackson,Indiana,18071
+56,Jefferson,Indiana,18077
+56,Jennings,Indiana,18079
+56,Johnson,Indiana,18081
+56,Knox,Indiana,18083
+56,Lawrence,Indiana,18093
+56,Madison,Indiana,18095
+56,Marion,Indiana,18097
+56,Martin,Indiana,18101
+56,Monroe,Indiana,18105
+56,Montgomery,Indiana,18107
+56,Morgan,Indiana,18109
+56,Ohio,Indiana,18115
+56,Orange,Indiana,18117
+56,Owen,Indiana,18119
+56,Parke,Indiana,18121
+56,Perry,Indiana,18123
+56,Pike,Indiana,18125
+56,Posey,Indiana,18129
+56,Putnam,Indiana,18133
+56,Randolph,Indiana,18135
+56,Ripley,Indiana,18137
+56,Rush,Indiana,18139
+56,Scott,Indiana,18143
+56,Shelby,Indiana,18145
+56,Spencer,Indiana,18147
+56,Sullivan,Indiana,18153
+56,Switzerland,Indiana,18155
+56,Tipton,Indiana,18159
+56,Union,Indiana,18161
+56,Vanderburgh,Indiana,18163
+56,Vermillion,Indiana,18165
+56,Vigo,Indiana,18167
+56,Warrick,Indiana,18173
+56,Washington,Indiana,18175
+56,Wayne,Indiana,18177
+57,Brown,Wisconsin,55009
+57,Calumet,Wisconsin,55015
+57,Dodge,Wisconsin,55027
+57,Door,Wisconsin,55029
+57,Florence,Wisconsin,55037
+57,Fond du Lac,Wisconsin,55039
+57,Forest,Wisconsin,55041
+57,Green Lake,Wisconsin,55047
+57,Kenosha,Wisconsin,55059
+57,Kewaunee,Wisconsin,55061
+57,Langlade,Wisconsin,55067
+57,Manitowoc,Wisconsin,55071
+57,Marinette,Wisconsin,55075
+57,Marquette,Wisconsin,55077
+57,Menominee,Wisconsin,55078
+57,Milwaukee,Wisconsin,55079
+57,Oconto,Wisconsin,55083
+57,Outagamie,Wisconsin,55087
+57,Ozaukee,Wisconsin,55089
+57,Racine,Wisconsin,55101
+57,Shawano,Wisconsin,55115
+57,Sheboygan,Wisconsin,55117
+57,Walworth,Wisconsin,55127
+57,Washington,Wisconsin,55131
+57,Waukesha,Wisconsin,55133
+57,Waupaca,Wisconsin,55135
+57,Waushara,Wisconsin,55137
+57,Winnebago,Wisconsin,55139
+58,Adams,Wisconsin,55001
+58,Ashland,Wisconsin,55003
+58,Barron,Wisconsin,55005
+58,Bayfield,Wisconsin,55007
+58,Buffalo,Wisconsin,55011
+58,Burnett,Wisconsin,55013
+58,Chippewa,Wisconsin,55017
+58,Clark,Wisconsin,55019
+58,Columbia,Wisconsin,55021
+58,Crawford,Wisconsin,55023
+58,Dane,Wisconsin,55025
+58,Douglas,Wisconsin,55031
+58,Dunn,Wisconsin,55033
+58,Eau Claire,Wisconsin,55035
+58,Grant,Wisconsin,55043
+58,Green,Wisconsin,55045
+58,Iowa,Wisconsin,55049
+58,Iron,Wisconsin,55051
+58,Jackson,Wisconsin,55053
+58,Jefferson,Wisconsin,55055
+58,Juneau,Wisconsin,55057
+58,La Crosse,Wisconsin,55063
+58,Lafayette,Wisconsin,55065
+58,Lincoln,Wisconsin,55069
+58,Marathon,Wisconsin,55073
+58,Monroe,Wisconsin,55081
+58,Oneida,Wisconsin,55085
+58,Pepin,Wisconsin,55091
+58,Pierce,Wisconsin,55093
+58,Polk,Wisconsin,55095
+58,Portage,Wisconsin,55097
+58,Price,Wisconsin,55099
+58,Richland,Wisconsin,55103
+58,Rock,Wisconsin,55105
+58,Rusk,Wisconsin,55107
+58,Sauk,Wisconsin,55111
+58,Sawyer,Wisconsin,55113
+58,St. Croix,Wisconsin,55109
+58,Taylor,Wisconsin,55119
+58,Trempealeau,Wisconsin,55121
+58,Vernon,Wisconsin,55123
+58,Vilas,Wisconsin,55125
+58,Washburn,Wisconsin,55129
+58,Wood,Wisconsin,55141
+60,Arkansas,Arkansas,05001
+60,Chicot,Arkansas,05017
+60,Clay,Arkansas,05021
+60,Cleburne,Arkansas,05023
+60,Cleveland,Arkansas,05025
+60,Conway,Arkansas,05029
+60,Craighead,Arkansas,05031
+60,Crittenden,Arkansas,05035
+60,Cross,Arkansas,05037
+60,Dallas,Arkansas,05039
+60,Desha,Arkansas,05041
+60,Drew,Arkansas,05043
+60,Faulkner,Arkansas,05045
+60,Fulton,Arkansas,05049
+60,Grant,Arkansas,05053
+60,Greene,Arkansas,05055
+60,Independence,Arkansas,05063
+60,Izard,Arkansas,05065
+60,Jackson,Arkansas,05067
+60,Jefferson,Arkansas,05069
+60,Lawrence,Arkansas,05075
+60,Lee,Arkansas,05077
+60,Lincoln,Arkansas,05079
+60,Lonoke,Arkansas,05085
+60,Mississippi,Arkansas,05093
+60,Monroe,Arkansas,05095
+60,Perry,Arkansas,05105
+60,Phillips,Arkansas,05107
+60,Poinsett,Arkansas,05111
+60,Pope,Arkansas,05115
+60,Prairie,Arkansas,05117
+60,Pulaski,Arkansas,05119
+60,Randolph,Arkansas,05121
+60,Saline,Arkansas,05125
+60,Sharp,Arkansas,05135
+60,St. Francis,Arkansas,05123
+60,Stone,Arkansas,05137
+60,Van Buren,Arkansas,05141
+60,White,Arkansas,05145
+60,Woodruff,Arkansas,05147
+60,Yell,Arkansas,05149
+61,Ashley,Arkansas,05003
+61,Baxter,Arkansas,05005
+61,Benton,Arkansas,05007
+61,Boone,Arkansas,05009
+61,Bradley,Arkansas,05011
+61,Calhoun,Arkansas,05013
+61,Carroll,Arkansas,05015
+61,Clark,Arkansas,05019
+61,Columbia,Arkansas,05027
+61,Crawford,Arkansas,05033
+61,Franklin,Arkansas,05047
+61,Garland,Arkansas,05051
+61,Hempstead,Arkansas,05057
+61,Hot Spring,Arkansas,05059
+61,Howard,Arkansas,05061
+61,Johnson,Arkansas,05071
+61,Lafayette,Arkansas,05073
+61,Little River,Arkansas,05081
+61,Logan,Arkansas,05083
+61,Madison,Arkansas,05087
+61,Marion,Arkansas,05089
+61,Miller,Arkansas,05091
+61,Montgomery,Arkansas,05097
+61,Nevada,Arkansas,05099
+61,Newton,Arkansas,05101
+61,Ouachita,Arkansas,05103
+61,Pike,Arkansas,05109
+61,Polk,Arkansas,05113
+61,Scott,Arkansas,05127
+61,Searcy,Arkansas,05129
+61,Sebastian,Arkansas,05131
+61,Sevier,Arkansas,05133
+61,Union,Arkansas,05139
+61,Washington,Arkansas,05143
+62,Allamakee,Iowa,19005
+62,Benton,Iowa,19011
+62,Black Hawk,Iowa,19013
+62,Bremer,Iowa,19017
+62,Buchanan,Iowa,19019
+62,Buena Vista,Iowa,19021
+62,Butler,Iowa,19023
+62,Calhoun,Iowa,19025
+62,Carroll,Iowa,19027
+62,Cedar,Iowa,19031
+62,Cerro Gordo,Iowa,19033
+62,Cherokee,Iowa,19035
+62,Chickasaw,Iowa,19037
+62,Clay,Iowa,19041
+62,Clayton,Iowa,19043
+62,Crawford,Iowa,19047
+62,Delaware,Iowa,19055
+62,Dickinson,Iowa,19059
+62,Dubuque,Iowa,19061
+62,Emmet,Iowa,19063
+62,Fayette,Iowa,19065
+62,Floyd,Iowa,19067
+62,Franklin,Iowa,19069
+62,Grundy,Iowa,19075
+62,Hamilton,Iowa,19079
+62,Hancock,Iowa,19081
+62,Hardin,Iowa,19083
+62,Howard,Iowa,19089
+62,Humboldt,Iowa,19091
+62,Ida,Iowa,19093
+62,Iowa,Iowa,19095
+62,Jackson,Iowa,19097
+62,Jones,Iowa,19105
+62,Kossuth,Iowa,19109
+62,Linn,Iowa,19113
+62,Lyon,Iowa,19119
+62,Mitchell,Iowa,19131
+62,Monona,Iowa,19133
+62,O'Brien,Iowa,19141
+62,Osceola,Iowa,19143
+62,Palo Alto,Iowa,19147
+62,Plymouth,Iowa,19149
+62,Pocahontas,Iowa,19151
+62,Sac,Iowa,19161
+62,Sioux,Iowa,19167
+62,Tama,Iowa,19171
+62,Webster,Iowa,19187
+62,Winnebago,Iowa,19189
+62,Winneshiek,Iowa,19191
+62,Woodbury,Iowa,19193
+62,Worth,Iowa,19195
+62,Wright,Iowa,19197
+63,Adair,Iowa,19001
+63,Adams,Iowa,19003
+63,Appanoose,Iowa,19007
+63,Audubon,Iowa,19009
+63,Boone,Iowa,19015
+63,Cass,Iowa,19029
+63,Clarke,Iowa,19039
+63,Clinton,Iowa,19045
+63,Dallas,Iowa,19049
+63,Davis,Iowa,19051
+63,Decatur,Iowa,19053
+63,Des Moines,Iowa,19057
+63,Fremont,Iowa,19071
+63,Greene,Iowa,19073
+63,Guthrie,Iowa,19077
+63,Harrison,Iowa,19085
+63,Henry,Iowa,19087
+63,Jasper,Iowa,19099
+63,Jefferson,Iowa,19101
+63,Johnson,Iowa,19103
+63,Keokuk,Iowa,19107
+63,Lee,Iowa,19111
+63,Louisa,Iowa,19115
+63,Lucas,Iowa,19117
+63,Madison,Iowa,19121
+63,Mahaska,Iowa,19123
+63,Marion,Iowa,19125
+63,Marshall,Iowa,19127
+63,Mills,Iowa,19129
+63,Monroe,Iowa,19135
+63,Montgomery,Iowa,19137
+63,Muscatine,Iowa,19139
+63,Page,Iowa,19145
+63,Polk,Iowa,19153
+63,Pottawattamie,Iowa,19155
+63,Poweshiek,Iowa,19157
+63,Ringgold,Iowa,19159
+63,Scott,Iowa,19163
+63,Shelby,Iowa,19165
+63,Story,Iowa,19169
+63,Taylor,Iowa,19173
+63,Union,Iowa,19175
+63,Van Buren,Iowa,19177
+63,Wapello,Iowa,19179
+63,Warren,Iowa,19181
+63,Washington,Iowa,19183
+63,Wayne,Iowa,19185
+64,Aitkin,Minnesota,27001
+64,Anoka,Minnesota,27003
+64,Becker,Minnesota,27005
+64,Beltrami,Minnesota,27007
+64,Benton,Minnesota,27009
+64,Big Stone,Minnesota,27011
+64,Blue Earth,Minnesota,27013
+64,Brown,Minnesota,27015
+64,Carlton,Minnesota,27017
+64,Carver,Minnesota,27019
+64,Cass,Minnesota,27021
+64,Chippewa,Minnesota,27023
+64,Chisago,Minnesota,27025
+64,Clay,Minnesota,27027
+64,Clearwater,Minnesota,27029
+64,Cook,Minnesota,27031
+64,Cottonwood,Minnesota,27033
+64,Crow Wing,Minnesota,27035
+64,Dakota,Minnesota,27037
+64,Dodge,Minnesota,27039
+64,Douglas,Minnesota,27041
+64,Faribault,Minnesota,27043
+64,Fillmore,Minnesota,27045
+64,Freeborn,Minnesota,27047
+64,Goodhue,Minnesota,27049
+64,Grant,Minnesota,27051
+64,Hennepin,Minnesota,27053
+64,Houston,Minnesota,27055
+64,Hubbard,Minnesota,27057
+64,Isanti,Minnesota,27059
+64,Itasca,Minnesota,27061
+64,Jackson,Minnesota,27063
+64,Kanabec,Minnesota,27065
+64,Kandiyohi,Minnesota,27067
+64,Kittson,Minnesota,27069
+64,Koochiching,Minnesota,27071
+64,Lac qui Parle,Minnesota,27073
+64,Lake,Minnesota,27075
+64,Lake of the Woods,Minnesota,27077
+64,Le Sueur,Minnesota,27079
+64,Lincoln,Minnesota,27081
+64,Lyon,Minnesota,27083
+64,Mahnomen,Minnesota,27087
+64,Marshall,Minnesota,27089
+64,Martin,Minnesota,27091
+64,McLeod,Minnesota,27085
+64,Meeker,Minnesota,27093
+64,Mille Lacs,Minnesota,27095
+64,Morrison,Minnesota,27097
+64,Mower,Minnesota,27099
+64,Murray,Minnesota,27101
+64,Nicollet,Minnesota,27103
+64,Nobles,Minnesota,27105
+64,Norman,Minnesota,27107
+64,Olmsted,Minnesota,27109
+64,Otter Tail,Minnesota,27111
+64,Pennington,Minnesota,27113
+64,Pine,Minnesota,27115
+64,Pipestone,Minnesota,27117
+64,Polk,Minnesota,27119
+64,Pope,Minnesota,27121
+64,Ramsey,Minnesota,27123
+64,Red Lake,Minnesota,27125
+64,Redwood,Minnesota,27127
+64,Renville,Minnesota,27129
+64,Rice,Minnesota,27131
+64,Rock,Minnesota,27133
+64,Roseau,Minnesota,27135
+64,Scott,Minnesota,27139
+64,Sherburne,Minnesota,27141
+64,Sibley,Minnesota,27143
+64,St. Louis,Minnesota,27137
+64,Stearns,Minnesota,27145
+64,Steele,Minnesota,27147
+64,Stevens,Minnesota,27149
+64,Swift,Minnesota,27151
+64,Todd,Minnesota,27153
+64,Traverse,Minnesota,27155
+64,Wabasha,Minnesota,27157
+64,Wadena,Minnesota,27159
+64,Waseca,Minnesota,27161
+64,Washington,Minnesota,27163
+64,Watonwan,Minnesota,27165
+64,Wilkin,Minnesota,27167
+64,Winona,Minnesota,27169
+64,Wright,Minnesota,27171
+64,Yellow Medicine,Minnesota,27173
+65,Adair,Missouri,29001
+65,Audrain,Missouri,29007
+65,Bollinger,Missouri,29017
+65,Butler,Missouri,29023
+65,Cape Girardeau,Missouri,29031
+65,Carter,Missouri,29035
+65,Chariton,Missouri,29041
+65,Clark,Missouri,29045
+65,Crawford,Missouri,29055
+65,Dent,Missouri,29065
+65,Dunklin,Missouri,29069
+65,Franklin,Missouri,29071
+65,Gasconade,Missouri,29073
+65,Iron,Missouri,29093
+65,Jefferson,Missouri,29099
+65,Knox,Missouri,29103
+65,Lewis,Missouri,29111
+65,Lincoln,Missouri,29113
+65,Linn,Missouri,29115
+65,Macon,Missouri,29121
+65,Madison,Missouri,29123
+65,Maries,Missouri,29125
+65,Marion,Missouri,29127
+65,Mississippi,Missouri,29133
+65,Monroe,Missouri,29137
+65,Montgomery,Missouri,29139
+65,New Madrid,Missouri,29143
+65,Pemiscot,Missouri,29155
+65,Perry,Missouri,29157
+65,Phelps,Missouri,29161
+65,Pike,Missouri,29163
+65,Ralls,Missouri,29173
+65,Randolph,Missouri,29175
+65,Reynolds,Missouri,29179
+65,Ripley,Missouri,29181
+65,Schuyler,Missouri,29197
+65,Scotland,Missouri,29199
+65,Scott,Missouri,29201
+65,Shannon,Missouri,29203
+65,Shelby,Missouri,29205
+65,St. Charles,Missouri,29183
+65,St. Francois,Missouri,29187
+65,St. Louis,Missouri,29189
+65,St. Louis city,Missouri,29510
+65,Ste. Genevieve,Missouri,29186
+65,Stoddard,Missouri,29207
+65,Warren,Missouri,29219
+65,Washington,Missouri,29221
+65,Wayne,Missouri,29223
+66,Andrew,Missouri,29003
+66,Atchison,Missouri,29005
+66,Barry,Missouri,29009
+66,Barton,Missouri,29011
+66,Bates,Missouri,29013
+66,Benton,Missouri,29015
+66,Boone,Missouri,29019
+66,Buchanan,Missouri,29021
+66,Caldwell,Missouri,29025
+66,Callaway,Missouri,29027
+66,Camden,Missouri,29029
+66,Carroll,Missouri,29033
+66,Cass,Missouri,29037
+66,Cedar,Missouri,29039
+66,Christian,Missouri,29043
+66,Clay,Missouri,29047
+66,Clinton,Missouri,29049
+66,Cole,Missouri,29051
+66,Cooper,Missouri,29053
+66,Dade,Missouri,29057
+66,Dallas,Missouri,29059
+66,Daviess,Missouri,29061
+66,DeKalb,Missouri,29063
+66,Douglas,Missouri,29067
+66,Gentry,Missouri,29075
+66,Greene,Missouri,29077
+66,Grundy,Missouri,29079
+66,Harrison,Missouri,29081
+66,Henry,Missouri,29083
+66,Hickory,Missouri,29085
+66,Holt,Missouri,29087
+66,Howard,Missouri,29089
+66,Howell,Missouri,29091
+66,Jackson,Missouri,29095
+66,Jasper,Missouri,29097
+66,Johnson,Missouri,29101
+66,Laclede,Missouri,29105
+66,Lafayette,Missouri,29107
+66,Lawrence,Missouri,29109
+66,Livingston,Missouri,29117
+66,McDonald,Missouri,29119
+66,Mercer,Missouri,29129
+66,Miller,Missouri,29131
+66,Moniteau,Missouri,29135
+66,Morgan,Missouri,29141
+66,Newton,Missouri,29145
+66,Nodaway,Missouri,29147
+66,Oregon,Missouri,29149
+66,Osage,Missouri,29151
+66,Ozark,Missouri,29153
+66,Pettis,Missouri,29159
+66,Platte,Missouri,29165
+66,Polk,Missouri,29167
+66,Pulaski,Missouri,29169
+66,Putnam,Missouri,29171
+66,Ray,Missouri,29177
+66,Saline,Missouri,29195
+66,St. Clair,Missouri,29185
+66,Stone,Missouri,29209
+66,Sullivan,Missouri,29211
+66,Taney,Missouri,29213
+66,Texas,Missouri,29215
+66,Vernon,Missouri,29217
+66,Webster,Missouri,29225
+66,Worth,Missouri,29227
+66,Wright,Missouri,29229
+67,Adams,Nebraska,31001
+67,Antelope,Nebraska,31003
+67,Arthur,Nebraska,31005
+67,Banner,Nebraska,31007
+67,Blaine,Nebraska,31009
+67,Boone,Nebraska,31011
+67,Box Butte,Nebraska,31013
+67,Boyd,Nebraska,31015
+67,Brown,Nebraska,31017
+67,Buffalo,Nebraska,31019
+67,Burt,Nebraska,31021
+67,Butler,Nebraska,31023
+67,Cass,Nebraska,31025
+67,Cedar,Nebraska,31027
+67,Chase,Nebraska,31029
+67,Cherry,Nebraska,31031
+67,Cheyenne,Nebraska,31033
+67,Clay,Nebraska,31035
+67,Colfax,Nebraska,31037
+67,Cuming,Nebraska,31039
+67,Custer,Nebraska,31041
+67,Dakota,Nebraska,31043
+67,Dawes,Nebraska,31045
+67,Dawson,Nebraska,31047
+67,Deuel,Nebraska,31049
+67,Dixon,Nebraska,31051
+67,Dodge,Nebraska,31053
+67,Douglas,Nebraska,31055
+67,Dundy,Nebraska,31057
+67,Fillmore,Nebraska,31059
+67,Franklin,Nebraska,31061
+67,Frontier,Nebraska,31063
+67,Furnas,Nebraska,31065
+67,Gage,Nebraska,31067
+67,Garden,Nebraska,31069
+67,Garfield,Nebraska,31071
+67,Gosper,Nebraska,31073
+67,Grant,Nebraska,31075
+67,Greeley,Nebraska,31077
+67,Hall,Nebraska,31079
+67,Hamilton,Nebraska,31081
+67,Harlan,Nebraska,31083
+67,Hayes,Nebraska,31085
+67,Hitchcock,Nebraska,31087
+67,Holt,Nebraska,31089
+67,Hooker,Nebraska,31091
+67,Howard,Nebraska,31093
+67,Jefferson,Nebraska,31095
+67,Johnson,Nebraska,31097
+67,Kearney,Nebraska,31099
+67,Keith,Nebraska,31101
+67,Keya Paha,Nebraska,31103
+67,Kimball,Nebraska,31105
+67,Knox,Nebraska,31107
+67,Lancaster,Nebraska,31109
+67,Lincoln,Nebraska,31111
+67,Logan,Nebraska,31113
+67,Loup,Nebraska,31115
+67,Madison,Nebraska,31119
+67,McPherson,Nebraska,31117
+67,Merrick,Nebraska,31121
+67,Morrill,Nebraska,31123
+67,Nance,Nebraska,31125
+67,Nemaha,Nebraska,31127
+67,Nuckolls,Nebraska,31129
+67,Otoe,Nebraska,31131
+67,Pawnee,Nebraska,31133
+67,Perkins,Nebraska,31135
+67,Phelps,Nebraska,31137
+67,Pierce,Nebraska,31139
+67,Platte,Nebraska,31141
+67,Polk,Nebraska,31143
+67,Red Willow,Nebraska,31145
+67,Richardson,Nebraska,31147
+67,Rock,Nebraska,31149
+67,Saline,Nebraska,31151
+67,Sarpy,Nebraska,31153
+67,Saunders,Nebraska,31155
+67,Scotts Bluff,Nebraska,31157
+67,Seward,Nebraska,31159
+67,Sheridan,Nebraska,31161
+67,Sherman,Nebraska,31163
+67,Sioux,Nebraska,31165
+67,Stanton,Nebraska,31167
+67,Thayer,Nebraska,31169
+67,Thomas,Nebraska,31171
+67,Thurston,Nebraska,31173
+67,Valley,Nebraska,31175
+67,Washington,Nebraska,31177
+67,Wayne,Nebraska,31179
+67,Webster,Nebraska,31181
+67,Wheeler,Nebraska,31183
+67,York,Nebraska,31185
+68,Adams,North Dakota,38001
+68,Barnes,North Dakota,38003
+68,Benson,North Dakota,38005
+68,Billings,North Dakota,38007
+68,Bottineau,North Dakota,38009
+68,Bowman,North Dakota,38011
+68,Burke,North Dakota,38013
+68,Burleigh,North Dakota,38015
+68,Cass,North Dakota,38017
+68,Cavalier,North Dakota,38019
+68,Dickey,North Dakota,38021
+68,Divide,North Dakota,38023
+68,Dunn,North Dakota,38025
+68,Eddy,North Dakota,38027
+68,Emmons,North Dakota,38029
+68,Foster,North Dakota,38031
+68,Golden Valley,North Dakota,38033
+68,Grand Forks,North Dakota,38035
+68,Grant,North Dakota,38037
+68,Griggs,North Dakota,38039
+68,Hettinger,North Dakota,38041
+68,Kidder,North Dakota,38043
+68,LaMoure,North Dakota,38045
+68,Logan,North Dakota,38047
+68,McHenry,North Dakota,38049
+68,McIntosh,North Dakota,38051
+68,McKenzie,North Dakota,38053
+68,McLean,North Dakota,38055
+68,Mercer,North Dakota,38057
+68,Morton,North Dakota,38059
+68,Mountrail,North Dakota,38061
+68,Nelson,North Dakota,38063
+68,Oliver,North Dakota,38065
+68,Pembina,North Dakota,38067
+68,Pierce,North Dakota,38069
+68,Ramsey,North Dakota,38071
+68,Ransom,North Dakota,38073
+68,Renville,North Dakota,38075
+68,Richland,North Dakota,38077
+68,Rolette,North Dakota,38079
+68,Sargent,North Dakota,38081
+68,Sheridan,North Dakota,38083
+68,Sioux,North Dakota,38085
+68,Slope,North Dakota,38087
+68,Stark,North Dakota,38089
+68,Steele,North Dakota,38091
+68,Stutsman,North Dakota,38093
+68,Towner,North Dakota,38095
+68,Traill,North Dakota,38097
+68,Walsh,North Dakota,38099
+68,Ward,North Dakota,38101
+68,Wells,North Dakota,38103
+68,Williams,North Dakota,38105
+69,Aurora,South Dakota,46003
+69,Beadle,South Dakota,46005
+69,Bennett,South Dakota,46007
+69,Bon Homme,South Dakota,46009
+69,Brookings,South Dakota,46011
+69,Brown,South Dakota,46013
+69,Brule,South Dakota,46015
+69,Buffalo,South Dakota,46017
+69,Butte,South Dakota,46019
+69,Campbell,South Dakota,46021
+69,Charles Mix,South Dakota,46023
+69,Clark,South Dakota,46025
+69,Clay,South Dakota,46027
+69,Codington,South Dakota,46029
+69,Corson,South Dakota,46031
+69,Custer,South Dakota,46033
+69,Davison,South Dakota,46035
+69,Day,South Dakota,46037
+69,Deuel,South Dakota,46039
+69,Dewey,South Dakota,46041
+69,Douglas,South Dakota,46043
+69,Edmunds,South Dakota,46045
+69,Fall River,South Dakota,46047
+69,Faulk,South Dakota,46049
+69,Grant,South Dakota,46051
+69,Gregory,South Dakota,46053
+69,Haakon,South Dakota,46055
+69,Hamlin,South Dakota,46057
+69,Hand,South Dakota,46059
+69,Hanson,South Dakota,46061
+69,Harding,South Dakota,46063
+69,Hughes,South Dakota,46065
+69,Hutchinson,South Dakota,46067
+69,Hyde,South Dakota,46069
+69,Jackson,South Dakota,46071
+69,Jerauld,South Dakota,46073
+69,Jones,South Dakota,46075
+69,Kingsbury,South Dakota,46077
+69,Lake,South Dakota,46079
+69,Lawrence,South Dakota,46081
+69,Lincoln,South Dakota,46083
+69,Lyman,South Dakota,46085
+69,Marshall,South Dakota,46091
+69,McCook,South Dakota,46087
+69,McPherson,South Dakota,46089
+69,Meade,South Dakota,46093
+69,Mellette,South Dakota,46095
+69,Miner,South Dakota,46097
+69,Minnehaha,South Dakota,46099
+69,Moody,South Dakota,46101
+69,Pennington,South Dakota,46103
+69,Perkins,South Dakota,46105
+69,Potter,South Dakota,46107
+69,Roberts,South Dakota,46109
+69,Sanborn,South Dakota,46111
+69,Spink,South Dakota,46115
+69,Stanley,South Dakota,46117
+69,Sully,South Dakota,46119
+69,Todd,South Dakota,46121
+69,Tripp,South Dakota,46123
+69,Turner,South Dakota,46125
+69,Union,South Dakota,46127
+69,Walworth,South Dakota,46129
+69,Yankton,South Dakota,46135
+69,Ziebach,South Dakota,46137
