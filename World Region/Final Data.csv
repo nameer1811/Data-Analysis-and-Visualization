@@ -1,0 +1,49 @@
+RowID,World Region,Label,Data,Scale
+1,Africa,Food,3.097681302,1
+2,Africa,Food,3.097681302,4
+3,Africa,Medicine,2.917050691,1
+4,Africa,Medicine,2.917050691,4
+5,Africa,Shelter,3.597295515,1
+6,Africa,Shelter,3.597295515,4
+7,Asia,Food,3.487307033,1
+8,Asia,Food,3.487307033,4
+9,Asia,Medicine,3.367352196,1
+10,Asia,Medicine,3.367352196,4
+11,Asia,Shelter,3.717624274,1
+12,Asia,Shelter,3.717624274,4
+13,China,Food,3.887203166,1
+14,China,Food,3.887203166,4
+15,China,Medicine,3.682073292,1
+16,China,Medicine,3.682073292,4
+17,China,Shelter,3.880779392,1
+18,China,Shelter,3.880779392,4
+19,Europe,Food,3.701690065,1
+20,Europe,Food,3.701690065,4
+21,Europe,Medicine,3.626301616,1
+22,Europe,Medicine,3.626301616,4
+23,Europe,Shelter,3.836868009,1
+24,Europe,Shelter,3.836868009,4
+25,Middle East,Food,3.45732784,1
+26,Middle East,Food,3.45732784,4
+27,Middle East,Medicine,3.230633111,1
+28,Middle East,Medicine,3.230633111,4
+29,Middle East,Shelter,3.600157264,1
+30,Middle East,Shelter,3.600157264,4
+31,Oceania,Food,3.828742938,1
+32,Oceania,Food,3.828742938,4
+33,Oceania,Medicine,3.687943262,1
+34,Oceania,Medicine,3.687943262,4
+35,Oceania,Shelter,3.950088496,1
+36,Oceania,Shelter,3.950088496,4
+37,South/Central America,Food,3.291121229,1
+38,South/Central America,Food,3.291121229,4
+39,South/Central America,Medicine,3.080948313,1
+40,South/Central America,Medicine,3.080948313,4
+41,South/Central America,Shelter,3.578662102,1
+42,South/Central America,Shelter,3.578662102,4
+43,United States,Food,3.541893362,1
+44,United States,Food,3.541893362,4
+45,United States,Medicine,3.415078933,1
+46,United States,Medicine,3.415078933,4
+47,United States,Shelter,3.826644827,1
+48,United States,Shelter,3.826644827,4
